@@ -1,13 +1,14 @@
+#markdown
 ## 2. `the-twin-towers.md` (Chapter 1)
 
 This page focuses on the foundation of the dynasty, using code blocks, a nested list, and **internal (anchor) navigation**.
 
 ```markdown
-# 👑 Chapter 1: The Twin Towers Era (1997-2003)
+# Chapter 1: The Twin Towers Era (1997-2003)
 
 The arrival of Tim Duncan marked the true beginning of the Spurs' dynastic run. After an injury-riddled season, the Spurs secured the #1 pick and selected Tim Duncan, pairing him with the already legendary David Robinson. This pairing was famously nicknamed the "**Twin Towers**."
 
-## 🗓️ Key Milestones of the Era
+## Key Milestones of the Era
 
 1.  **1997:** Draft Tim Duncan, forming the Twin Towers.
 2.  **1998:** Duncan wins NBA Rookie of the Year.

@@ -1,4 +1,5 @@
-# 🌟 Chapter 2: The Big Three Dynasty (2003-2016)
+# markdown
+# Chapter 2: The Big Three Dynasty (2003-2016)
 
 After David Robinson's retirement, the Spurs transitioned seamlessly into the era of the **Big Three**: Tim Duncan, Tony Parker, and Manu Ginóbili. Coached by Gregg Popovich, this trio became the winningest unit in NBA history.
 
