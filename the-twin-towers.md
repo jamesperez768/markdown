@@ -1,10 +1,9 @@
 # Chapter 1: The Twin Towers Era (1997-2003)
 
 **Jump to section:**
-* [Key Milestones](#key-milestones-of-the-era)
-* [The Admiral's Accomplishments](#the-admirals-accomplishments)
-* [Navigation Hub](#navigation-hub)
 
+* [**Chapter 2: The Big Three Dynasty** (2003-2016)](the-big-three.md)
+* [**readme**](README.md)
 ---
 
 The arrival of Tim Duncan marked the true beginning of the Spurs' dynastic run. After an injury-riddled season, the Spurs secured the #1 pick and selected Tim Duncan, pairing him with the already legendary David Robinson. This pairing was famously nicknamed the "**Twin Towers**."
