@@ -1,4 +1,4 @@
-#markdown
+# markdown
 ## 2. `the-twin-towers.md` (Chapter 1)
 
 This page focuses on the foundation of the dynasty, using code blocks, a nested list, and **internal (anchor) navigation**.
