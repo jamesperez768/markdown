@@ -10,14 +10,14 @@ After David Robinson's retirement, the Spurs transitioned seamlessly into the er
 | 2007 | Cleveland Cavaliers | Tony Parker | Team Offense |
 | 2014 | Miami Heat | Kawhi Leonard | The Beautiful Game |
 
-## 🐐 Spurs Legends
+## Spurs Legends
 
 The Spurs were defined by their global perspective and unselfish play, which became known as "The Spurs Way."
 
 * **Tim Duncan** - The quiet leader.
 * **Tony Parker** - The lightning-quick point guard from France.
 * **Manu Ginóbili** - The passionate 6th man from Argentina.
-* ~~Kawhi Leonard~~ - Finals MVP in 2014, but later departed the team.
+* **Kawhi Leonard**- Finals MVP in 2014, but later departed the team.
 * **Gregg Popovich** - The greatest coach in franchise history.
 
 ## The Popovich Factor
@@ -27,15 +27,8 @@ Coach Popovich's success is defined by two principles: **Discipline** and **Adap
 * He holds the **all-time NBA record for coaching wins**.
 * Popovich developed the team's culture around **selflessness**.
 
-### Code Example: The "Pop" Philosophy
-For Popovich, everything starts with the basics:
-```python
-def the_spurs_way(player):
-    if player.is_selfish():
-        return "You are benched."
-    else:
-        return "Pass the ball and defend."
+## Navigation Hub
+Click on a link below to explore a specific chapter of Spurs history:
 
-# Example output:
-print(the_spurs_way("Tim Duncan"))
-# Output: Pass the ball and defend.
+* [**Chapter 1: The Twin Towers Era** (1997-2003)](the-twin-towers.md)
+* [**Main**](README.md)

@@ -29,13 +29,8 @@ We must remember his most unique achievement:
     * NBA Defensive Player of the Year (1992)
     * Olympic Gold Medalist (1992, 1996)
 
-## ⬇️ Jump to Navigation
-[Go to Page Navigation](#page-navigation)
+## Navigation Hub
+Click on a link below to explore a specific chapter of Spurs history:
 
-<br><br><br><br><br><br>
-***
-<br><br><br><br><br><br>
-
-## 🧭 Page Navigation
-<a id="page-navigation"></a>
-⬅️ [**Back to Home**](README.md) | [**Continue to Chapter 2: The Big Three Dynasty ➡️**](the-big-three.md)
+* [**Chapter 2: The Big Three Dynasty** (2003-2016)](the-big-three.md)
+* [**Main**](README.md)
